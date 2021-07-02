@@ -1,0 +1,17 @@
+.single {
+  padding: 2px 16px;
+  background: #fff;
+  display: inline-block;
+  max-width: 250px;
+  margin: 20px 10px;
+  vertical-align: top;
+}
+.single img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  margin-top: 15px;
+}
+.single:hover {
+  background-color: rgb(226, 225, 225);
+}

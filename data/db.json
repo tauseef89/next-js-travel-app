@@ -1,0 +1,46 @@
+{
+    "packages": [
+      {
+        "id": 1,
+        "title": "Taj Theog Resort & Spa, Shimla for 3N- from New Delhi",
+        "info": "Stay at Taj Theog Resort & Spa and indulge in local sightseeing, shopping and food.",
+        "price": "₹20,195 - per person",
+        "duration": "2N - 1D"
+      },
+      {
+        "id": 2,
+        "title": "Larisa Resort 3N - Luxury Break in Manali",
+        "info": "Private AC Sedan - AC for sightseeing in & around Manali, shopping and food.",
+        "price": "₹40,195 - per person",
+        "duration": "5N - 3D"
+      },
+      {
+        "id": 3,
+        "title": "Manali at Himlayan Manali Resort - Unique Staycations",
+        "info": "Built in the Victorian Gothic Revival style and perched at an elevation of 2003 metres, The Himalayan makes for a great Staycation. It is set in the",
+        "price": "₹27,195 - per person",
+        "duration": "2N - 5D"
+      },
+      {
+        "id": 4,
+        "title": "Luxury weekend at Taj Theog (near Shimla) from Delhi",
+        "info": "Enjoy a short break in Shimla and unwind at the Taj Theog Resort & Spa. Walk on the famous Mall Road and visit the magnificent Viceregal Lodge.",
+        "price": "₹25,195 - per person",
+        "duration": "2N - 1D"
+      },
+      {
+        "id": 5,
+        "title": "Taj Theog Resort & Spa, Shimla for 2N -from New Delhi",
+        "info": "Regale in the luxurious surrroundings of Taj Resort in Himachal. Enjoy a short break at the Shimla mall road, & labyrinthine bazaars.",
+        "price": "₹90,195 - per person",
+        "duration": "3N - 4D"
+      },
+      {
+        "id": 6,
+        "title": "Deluxe & Premium Himachal Vacation from Chandigarh",
+        "info": "Stay at Taj Theog Resort & Spa and indulge in local sightseeing, shopping and food.",
+        "price": "₹80,195 - per person",
+        "duration": "3N - 5D"
+      }
+    ]
+  }
